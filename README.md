@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Matias</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **some subscription-based web apps.**
+- 🔭 I’m currently working on **subscription-based web apps.**
 
 - 🌱 I’m currently learning **PHP & Docker**
 
 - 👨‍💻 All of my projects are available at [github.com/matiaslapolla](github.com/matiaslapolla)
 
-- 💬 Ask me about **reactjs**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **matias.lapolla.1@gmail.com**
 
