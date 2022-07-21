@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **subscription-based web apps.**
 
-- 🌱 I’m currently learning **PHP & Docker**
+- 🌱 I’m currently learning **PHP** and later **Swift**
 
 - 👨‍💻 All of my projects are available at [github.com/matiaslapolla](github.com/matiaslapolla)
 
