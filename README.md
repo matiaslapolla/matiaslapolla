@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **building web apps.**
 
-- 🌱 I’m currently getting my hands dirty on **backend development**.
+- 🌱 I’m currently getting my hands dirty on **frontend development and programming logic foundations**.
 
 - 👨‍💻 All of my projects are available at [github.com/matiaslapolla](github.com/matiaslapolla) (not many yet, currently focused on my 9 to 5)
 
