@@ -16,6 +16,6 @@
 <a href="https://linkedin.com/in/mlapolla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mlapolla" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Some "fancy" stats:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matiaslapolla&show_icons=true&theme=gruvbox&locale=en" alt="matiaslapolla" /></p>
