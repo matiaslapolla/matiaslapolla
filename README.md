@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matias</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate software developer from Argentina</h3>
 
-- 🔭 I’m currently working on **full stack development.**
+- 🔭 I’m currently working on **SaaS development.**
 
 - 👨‍💻 All of my projects are available at [github.com/matiaslapolla](github.com/matiaslapolla) (not many yet, currently focused on my 9 to 5)
 
