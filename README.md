@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matias</h1>
 <h3 align="center">A passionate software developer from Argentina</h3>
 
-- 🔭 I’m currently working on **SaaS development.**
+- 🔭 I’m currently **leveling up my knowledge and building apps.**
 
-- 👨‍💻 All of my projects are available at [github.com/matiaslapolla](github.com/matiaslapolla) (not many yet, currently focused on my 9 to 5)
+- 👨‍💻 All of my code are is at [github.com/matiaslapolla](github.com/matiaslapolla) 
 
 - 💬 Ask me about **React**
 
