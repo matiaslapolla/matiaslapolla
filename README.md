@@ -9,5 +9,5 @@
 
 - 📫 How to reach me **matias.lapolla.1@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mlapolla/](https://www.linkedin.com/in/mlapolla/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/matiaslapolla/](https://www.linkedin.com/in/matiaslapolla/)
 
