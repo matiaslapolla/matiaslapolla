@@ -9,5 +9,5 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/matiaslapolla/](https://www.linkedin.com/in/matiaslapolla/)
   
-- 📄 My blog [https://www.matiaslapolla.com/](https://www.matiaslapolla.com/)
+- 📄 My blog [https://matiaslapolla.com/](https://matiaslapolla.com/)
 
