@@ -3,7 +3,7 @@
 
 - 🔭 I’m **leveling up my knowledge and building apps** on my free time.
 
-- 💬 Ask me about [ai-agents, plan-mode, and iterating ideas fast]
+- 💬 Ask me about [ai-agents, plan-mode, iterating-ideas-fast, is-this-idea-good-?, is-this-feature-good-?]
   
 - 📫 How to reach me **hi@matiaslapolla.com** | **[https://www.matiaslapolla.com](https://www.matiaslapolla.com)**
 
