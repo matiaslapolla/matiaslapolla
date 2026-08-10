@@ -37,6 +37,7 @@ Full descriptions at [matiaslapolla.com](https://matiaslapolla.com).
 ### Sideprojects
 
 - **[Module0](https://module0.xyz)** — Building the agents' software factory. *(CEO)*
+- **[mdnm](https://github.com/matiaslapolla/mdnm)** — CLI-spawned desktop markdown viewer with first-class mermaid diagrams. Tauri v2, Rust.
 - **[readaloud](https://github.com/matiaslapolla/readaloud)** — Terminal TTS that reads your last agent response aloud.
 - **[portwatch](https://github.com/matiaslapolla/portwatch)** — Find, free, and kill processes holding your local ports.
 - **[voidlink](https://github.com/matiaslapolla/voidlink)** — Keyboard-driven, fully-local Git workbench with stacked diffs.
