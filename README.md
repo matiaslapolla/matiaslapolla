@@ -5,7 +5,7 @@
   <img alt="Matias Lapolla — I build software drinking Argentine Mate, with a focus on product, solving user problems with great UX and fast iteration processes." src="assets/banner-light.svg" width="960">
 </picture>
 
-AI Engineer. Currently building [Module0](https://module0.xyz), the agents' software factory.
+AI Engineer. Currently building [Module0](https://module0.xyz) on my free time, the agents' software factory, and working at [Persiscal](https://persiscal.com/)
 
 ### Experience
 
